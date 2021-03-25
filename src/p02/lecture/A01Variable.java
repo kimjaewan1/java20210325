@@ -19,7 +19,7 @@ public class A01Variable {
 		// 값 할당 =, +=, -=, *=, /=, %= : 할당 연산자
 		a = 5;
 		
-		System.out.printlnc; // 5
+		System.out.println(a); // 5
 		
 		a = 7;
 		
