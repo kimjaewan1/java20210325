@@ -33,5 +33,7 @@ public class A05TypeInt {
 		System.out.println(intVar);
 		intVar = 0377;
 		System.out.println(intVar);
+		//....
+		
 	}
 }
