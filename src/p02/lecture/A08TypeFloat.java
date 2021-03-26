@@ -27,7 +27,7 @@ public class A08TypeFloat {
 		// 음의 무한대
 		System.out.println(Float.NEGATIVE_INFINITY);
 	
-		// NaN (Not a Number)
+		// NaN (Not a Number)...
 		System.out.println(Float.NaN);
 	}
 }
