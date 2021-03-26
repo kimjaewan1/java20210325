@@ -13,6 +13,7 @@ public class A07TypeCharEx1 {
 			if (('a' <= c && c <= 'z') || ('A' <= c && c <= 'Z')) {
 				count++;
 			}
+		//.
 		}
 		System.out.println(count);
 	}
