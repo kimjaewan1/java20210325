@@ -13,5 +13,6 @@ public class A03LogicalNot {
 		
 		boolean d = !c;
 		System.out.println(d);
+	//
 	}
 }
