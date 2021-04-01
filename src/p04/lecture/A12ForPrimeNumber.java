@@ -1,5 +1,7 @@
 package p04.lecture;
 
+import java.util.Scanner;
+
 public class A12ForPrimeNumber {
 	public static void main(String[] args) {
 		// 소수 (prime number) : 약수가 1과 자기자신
