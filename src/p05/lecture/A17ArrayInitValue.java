@@ -1,5 +1,7 @@
 package p05.lecture;
 
+import java.util.Arrays;
+
 public class A17ArrayInitValue {
 	public static void main(String[] args) {
 		int[] arr1 = new int[3]; // 0, 0, 0
