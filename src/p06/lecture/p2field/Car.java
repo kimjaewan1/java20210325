@@ -4,4 +4,6 @@ public class Car {
 	// (instance) field : 클래스에 선언된 변수
 		String name;
 		String model;
+			
 }
+
