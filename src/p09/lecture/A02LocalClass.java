@@ -20,5 +20,6 @@ public class A02LocalClass {
 			
 		}
 		LocalClass o1 = new LocalClass();
+		
 	}
 }
