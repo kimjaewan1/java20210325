@@ -1,4 +1,4 @@
-package p09.textboox.s090203;
+package p09.textbook.s090203;
 
 //바깥 클래스
 public class A {
