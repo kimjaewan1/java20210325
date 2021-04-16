@@ -1,4 +1,4 @@
-package p09.textboox.exercise.ex04;
+package p09.textbook.exercise.ex04;
 
 public class Car {
 	class Tire {}
