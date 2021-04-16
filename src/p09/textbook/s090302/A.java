@@ -1,4 +1,4 @@
-package p09.textboox.s090302;
+package p09.textbook.s090302;
 
 public class A {
 	int field1;

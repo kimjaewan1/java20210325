@@ -1,4 +1,4 @@
-package p09.textboox.s090301;
+package p09.textbook.s090301;
 
 public class A {
 	//인스턴스 필드
