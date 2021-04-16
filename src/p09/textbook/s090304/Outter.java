@@ -1,4 +1,4 @@
-package p09.textboox.s090304;
+package p09.textbook.s090304;
 
 public class Outter {
 	String field = "Outter-field";
