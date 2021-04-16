@@ -1,4 +1,4 @@
-package p09.textboox.s090303;
+package p09.textbook.s090303;
 
 public class Outter {
 	//자바 7 이전
