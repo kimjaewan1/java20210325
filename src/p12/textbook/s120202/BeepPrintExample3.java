@@ -1,4 +1,4 @@
-package p12.textbook;
+package p12.textbook.s120202;
 
 public class BeepPrintExample3 {
 	public static void main(String[] args) {
